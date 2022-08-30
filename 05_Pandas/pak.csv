@@ -1,0 +1,890 @@
+Year,Item,Value
+2002,"Almonds, with shell",1302210
+2002,Apples,5874325
+2002,Apricots,2399450
+2002,Bananas,1173882
+2002,Barley,733530
+2002,Castor oil seed,18233
+2002,Dates,15000000
+2002,"Eggs, hen, in shell",17277627
+2002,Garlic,1077201
+2002,Ginger,747
+2002,Grapes,1911000
+2002,"Groundnuts, with shell",2370375
+2002,Lemons and limes,1336200
+2002,Lentils,635612
+2002,Linseed,28548
+2002,Maize,14591640
+2002,"Mangoes, mangosteens, guavas",17372095
+2002,"Meat indigenous, goat",34981650
+2002,"Meat indigenous, sheep",16702950
+2002,"Meat, goat",34981650
+2002,"Meat, sheep",16702950
+2002,"Melons, other (inc.cantaloupes)",2619117
+2002,"Milk, whole fresh buffalo",297813550
+2002,"Milk, whole fresh cow",137983750
+2002,Millet,1778480
+2002,"Onions, dry",7859971
+2002,Oranges,13883730
+2002,Peaches and nectarines,1678600
+2002,Pears,340515
+2002,"Peas, dry",769573
+2002,Plums and sloes,1133405
+2002,Potatoes,10730464
+2002,Pulses nes,3859885
+2002,Rapeseed,3528140
+2002,"Rice, paddy",66304193
+2002,Roots and tubers nes,4345757
+2002,Safflower seed,533
+2002,Seed cotton,48196200
+2002,Sesame seed,563560
+2002,Sorghum,1620000
+2002,Soybeans,21047
+2002,Sugar beet,111575
+2002,Sugar cane,29257334
+2002,Sunflower seed,1256928
+2002,"Walnuts, with shell",588003
+2002,Wheat,160848863
+2002,"Wool, greasy",1358079
+2003,"Almonds, with shell",3206763
+2003,Apples,12073081
+2003,Apricots,5630549
+2003,Bananas,1360980
+2003,Barley,776880
+2003,Castor oil seed,41438
+2003,Dates,11790958
+2003,"Eggs, hen, in shell",17713338
+2003,Garlic,1083801
+2003,Ginger,885
+2003,Grapes,1762634
+2003,"Groundnuts, with shell",3334903
+2003,Lemons and limes,1293600
+2003,Lentils,768690
+2003,Linseed,64140
+2003,Maize,16744555
+2003,"Mangoes, mangosteens, guavas",19269053
+2003,"Meat indigenous, goat",43470000
+2003,"Meat indigenous, sheep",16913050
+2003,"Meat, goat",43470000
+2003,"Meat, sheep",16913050
+2003,"Melons, other (inc.cantaloupes)",975775
+2003,"Milk, whole fresh buffalo",307645925
+2003,"Milk, whole fresh cow",140644275
+2003,Millet,2641205
+2003,"Onions, dry",10955909
+2003,Oranges,16837744
+2003,Peaches and nectarines,1676906
+2003,Pears,435642
+2003,"Peas, dry",730350
+2003,Plums and sloes,1683953
+2003,Potatoes,10947938
+2003,Pulses nes,5715193
+2003,Rapeseed,4512000
+2003,"Rice, paddy",75957044
+2003,Roots and tubers nes,4099947
+2003,Safflower seed,525
+2003,Seed cotton,47427525
+2003,Sesame seed,922770
+2003,Sorghum,2345285
+2003,Soybeans,6221
+2003,Sugar beet,250308
+2003,Sugar cane,28786857
+2003,Sunflower seed,2374610
+2003,"Walnuts, with shell",570370
+2003,Wheat,175527195
+2003,"Wool, greasy",1418838
+2004,"Almonds, with shell",3303665
+2004,Apples,12802704
+2004,Apricots,5778120
+2004,Bananas,1677120
+2004,Barley,780800
+2004,Castor oil seed,34820
+2004,Dates,17427312
+2004,"Eggs, hen, in shell",18258273
+2004,Garlic,1546787
+2004,Ginger,1436
+2004,Grapes,1723058
+2004,"Groundnuts, with shell",2369888
+2004,Lemons and limes,1445220
+2004,Lentils,830370
+2004,Linseed,67384
+2004,Maize,28238512
+2004,"Mangoes, mangosteens, guavas",20063753
+2004,"Meat indigenous, goat",45606750
+2004,"Meat indigenous, sheep",17331650
+2004,"Meat, goat",45606750
+2004,"Meat, sheep",17331650
+2004,"Melons, other (inc.cantaloupes)",1004738
+2004,"Milk, whole fresh buffalo",323232000
+2004,"Milk, whole fresh cow",145790400
+2004,Millet,1894340
+2004,"Onions, dry",12357285
+2004,Oranges,18912340
+2004,Peaches and nectarines,1809236
+2004,Pears,449492
+2004,"Peas, dry",793500
+2004,Plums and sloes,1687432
+2004,Potatoes,20278340
+2004,Pulses nes,4628596
+2004,Rapeseed,4642950
+2004,"Rice, paddy",92036749
+2004,Roots and tubers nes,7754886
+2004,Safflower seed,588
+2004,Seed cotton,67698420
+2004,Sesame seed,1124497
+2004,Sorghum,1845360
+2004,Soybeans,6678
+2004,Sugar beet,339805
+2004,Sugar cane,34767720
+2004,Sunflower seed,6704548
+2004,"Walnuts, with shell",559398
+2004,Wheat,208569861
+2004,"Wool, greasy",1461278
+2005,"Almonds, with shell",3215278
+2005,Apples,12995584
+2005,Apricots,5349122
+2005,Bananas,1428331
+2005,Barley,751940
+2005,Castor oil seed,36558
+2005,Dates,14152416
+2005,"Eggs, hen, in shell",19449352
+2005,Garlic,2084958
+2005,Ginger,1775
+2005,Grapes,1739791
+2005,"Groundnuts, with shell",2281257
+2005,Lemons and limes,1859760
+2005,Lentils,696710
+2005,Linseed,56276
+2005,Maize,31453604
+2005,"Mangoes, mangosteens, guavas",32642025
+2005,"Meat indigenous, goat",47970570
+2005,"Meat indigenous, sheep",17820000
+2005,"Meat, goat",47974200
+2005,"Meat, sheep",17820000
+2005,"Melons, other (inc.cantaloupes)",941612
+2005,"Milk, whole fresh buffalo",338028000
+2005,"Milk, whole fresh cow",150416000
+2005,Millet,2185920
+2005,"Onions, dry",16800896
+2005,Oranges,24059580
+2005,Peaches and nectarines,2460675
+2005,Pears,425145
+2005,"Peas, dry",654690
+2005,Plums and sloes,1741431
+2005,Potatoes,23642732
+2005,Pulses nes,4388703
+2005,Rapeseed,4300000
+2005,"Rice, paddy",105689970
+2005,Roots and tubers nes,8732215
+2005,Safflower seed,502
+2005,Seed cotton,60206013
+2005,Sesame seed,1332546
+2005,Sorghum,1526000
+2005,Soybeans,5280
+2005,Sugar beet,170822
+2005,Sugar cane,30330712
+2005,Sunflower seed,6392452
+2005,"Walnuts, with shell",654148
+2005,Wheat,240458450
+2005,"Wool, greasy",1496920
+2006,"Almonds, with shell",3268160
+2006,Apples,13240720
+2006,Apricots,5039672
+2006,Bananas,1602075
+2006,Barley,787500
+2006,Castor oil seed,51660
+2006,Dates,13640992
+2006,"Eggs, hen, in shell",22811807
+2006,Garlic,2406264
+2006,Ginger,1128
+2006,Grapes,1994127
+2006,"Groundnuts, with shell",2660400
+2006,Lemons and limes,1897866
+2006,Lentils,495963
+2006,Linseed,63018
+2006,Maize,33972400
+2006,"Mangoes, mangosteens, guavas",38586020
+2006,"Meat indigenous, goat",40000000
+2006,"Meat indigenous, sheep",16881965
+2006,"Meat, goat",40000000
+2006,"Meat, sheep",16881965
+2006,"Melons, other (inc.cantaloupes)",1053512
+2006,"Milk, whole fresh buffalo",356022000
+2006,"Milk, whole fresh cow",193068000
+2006,Millet,2908360
+2006,"Onions, dry",18706870
+2006,Oranges,27447829
+2006,Peaches and nectarines,2708108
+2006,Pears,451744
+2006,"Peas, dry",748791
+2006,Plums and sloes,1959757
+2006,Potatoes,17012800
+2006,Pulses nes,5520410
+2006,Rapeseed,3724538
+2006,"Rice, paddy",106727186
+2006,Roots and tubers nes,9229292
+2006,Safflower seed,494
+2006,Seed cotton,62522000
+2006,Sesame seed,1215720
+2006,Sorghum,2566850
+2006,Soybeans,10104
+2006,Sugar beet,135846
+2006,Sugar cane,29535955
+2006,Sunflower seed,6965500
+2006,"Walnuts, with shell",713616
+2006,Wheat,228726675
+2006,"Wool, greasy",1545706
+2007,"Almonds, with shell",3390390
+2007,Apples,17663000
+2007,Apricots,7354679
+2007,Bananas,1579725
+2007,Barley,927000
+2007,Castor oil seed,43542
+2007,Dates,22300960
+2007,"Eggs, hen, in shell",26073276
+2007,Garlic,2991984
+2007,Ginger,2411
+2007,Grapes,3361457
+2007,"Groundnuts, with shell",3085800
+2007,Lemons and limes,1202718
+2007,Lentils,633414
+2007,Linseed,89571
+2007,Maize,41454050
+2007,"Mangoes, mangosteens, guavas",41260320
+2007,"Meat indigenous, goat",47795200
+2007,"Meat indigenous, sheep",18624554
+2007,"Meat, goat",47795200
+2007,"Meat, sheep",18624554
+2007,"Melons, other (inc.cantaloupes)",1081968
+2007,"Milk, whole fresh buffalo",381975000
+2007,"Milk, whole fresh cow",208687500
+2007,Millet,5038600
+2007,"Onions, dry",17619080
+2007,Oranges,16347378
+2007,Peaches and nectarines,2636544
+2007,Pears,387881
+2007,"Peas, dry",1109713
+2007,Plums and sloes,2667896
+2007,Potatoes,29687250
+2007,Pulses nes,5994661
+2007,Rapeseed,4956082
+2007,"Rice, paddy",118854753
+2007,Roots and tubers nes,9994646
+2007,Safflower seed,676
+2007,Seed cotton,62445900
+2007,Sesame seed,1344308
+2007,Sorghum,2942730
+2007,Soybeans,816
+2007,Sugar beet,132444
+2007,Sugar cane,39406288
+2007,Sunflower seed,8551704
+2007,"Walnuts, with shell",790140
+2007,Wheat,252513464
+2007,"Wool, greasy",1703652
+2008,"Almonds, with shell",3965486
+2008,Apples,18524604
+2008,Apricots,7737711
+2008,Bananas,1737582
+2008,Barley,900220
+2008,Castor oil seed,79484
+2008,Dates,27187200
+2008,"Eggs, hen, in shell",27575703
+2008,Garlic,3317548
+2008,Ginger,4750
+2008,Grapes,3547549
+2008,"Groundnuts, with shell",3249000
+2008,Lemons and limes,2048530
+2008,Lentils,443399
+2008,Linseed,77121
+2008,Maize,42397400
+2008,"Mangoes, mangosteens, guavas",63419552
+2008,"Meat indigenous, goat",49698000
+2008,"Meat indigenous, sheep",19000633
+2008,"Meat, goat",49698000
+2008,"Meat, sheep",19000882
+2008,"Melons, other (inc.cantaloupes)",1240369
+2008,"Milk, whole fresh buffalo",406837400
+2008,"Milk, whole fresh cow",224070000
+2008,Millet,6257004
+2008,"Onions, dry",19748960
+2008,Oranges,26919074
+2008,Peaches and nectarines,3012120
+2008,Pears,431498
+2008,"Peas, dry",1001209
+2008,Plums and sloes,2569568
+2008,Potatoes,26659500
+2008,Pulses nes,5119957
+2008,Rapeseed,4179515
+2008,"Rice, paddy",149540753
+2008,Roots and tubers nes,10091015
+2008,Safflower seed,876
+2008,Seed cotton,70394000
+2008,Sesame seed,1803868
+2008,Sorghum,3619000
+2008,Soybeans,754
+2008,Sugar beet,102240
+2008,Sugar cane,46329855
+2008,Sunflower seed,15097350
+2008,"Walnuts, with shell",763320
+2008,Wheat,238720732
+2008,"Wool, greasy",1732256
+2009,"Almonds, with shell",4237200
+2009,Apples,16486200
+2009,Apricots,7068579
+2009,Bananas,2517104
+2009,Barley,1705388
+2009,Castor oil seed,16547
+2009,Dates,27621932
+2009,"Eggs, hen, in shell",30230296
+2009,Garlic,7056420
+2009,Ginger,11100
+2009,Grapes,3068707
+2009,"Groundnuts, with shell",2250360
+2009,Lemons and limes,2243973
+2009,Lentils,456130
+2009,Linseed,94712
+2009,Maize,58132976
+2009,"Mangoes, mangosteens, guavas",70801984
+2009,"Meat indigenous, goat",68321810
+2009,"Meat indigenous, sheep",20076990
+2009,"Meat, goat",68321810
+2009,"Meat, sheep",20076990
+2009,"Melons, other (inc.cantaloupes)",1309848
+2009,"Milk, whole fresh buffalo",437504109
+2009,"Milk, whole fresh cow",242507007
+2009,Millet,8054750
+2009,"Onions, dry",26839575
+2009,Oranges,29101800
+2009,Peaches and nectarines,2105766
+2009,Pears,394489
+2009,"Peas, dry",988611
+2009,Plums and sloes,2442475
+2009,Potatoes,38025126
+2009,Pulses nes,5783824
+2009,Rapeseed,4684238
+2009,"Rice, paddy",154416300
+2009,Roots and tubers nes,10447329
+2009,Safflower seed,1191
+2009,Seed cotton,110183409
+2009,Sesame seed,1651728
+2009,Sorghum,3898730
+2009,Soybeans,994
+2009,Sugar beet,154744
+2009,Sugar cane,37833321
+2009,Sunflower seed,13876071
+2009,"Walnuts, with shell",1529760
+2009,Wheat,586188903
+2009,"Wool, greasy",1830541
+2010,"Almonds, with shell",3968042
+2010,Apples,25241040
+2010,Apricots,6104966
+2010,Bananas,2941675
+2010,Barley,1610070
+2010,Castor oil seed,88784
+2010,Dates,29346296
+2010,"Eggs, hen, in shell",35115368
+2010,Garlic,9156640
+2010,Ginger,17250
+2010,Grapes,3189281
+2010,"Groundnuts, with shell",3288446
+2010,Lemons and limes,2443690
+2010,Lentils,440109
+2010,Linseed,89622
+2010,Maize,72299573
+2010,"Mangoes, mangosteens, guavas",89479816
+2010,"Meat indigenous, goat",110649004
+2010,"Meat indigenous, sheep",22319915
+2010,"Meat, goat",110649004
+2010,"Meat, sheep",22319915
+2010,"Melons, other (inc.cantaloupes)",1478263
+2010,"Milk, whole fresh buffalo",574630885
+2010,"Milk, whole fresh cow",320781198
+2010,Millet,10106314
+2010,"Onions, dry",32320900
+2010,Oranges,32207000
+2010,Peaches and nectarines,2208318
+2010,Pears,413753
+2010,"Peas, dry",1126651
+2010,Plums and sloes,2530440
+2010,Potatoes,49233588
+2010,Pulses nes,8418394
+2010,Rapeseed,4869250
+2010,"Rice, paddy",119530707
+2010,Roots and tubers nes,11402893
+2010,Safflower seed,1005
+2010,Seed cotton,126238637
+2010,Sesame seed,1623848
+2010,Sorghum,3882945
+2010,Soybeans,1807
+2010,Sugar cane,41228840
+2010,Sunflower seed,12628546
+2010,"Walnuts, with shell",1625700
+2010,Wheat,585101080
+2010,"Wool, greasy",2044387
+2011,"Almonds, with shell",4578945
+2011,Apples,33893929
+2011,Apricots,7170574
+2011,Bananas,3116569
+2011,Barley,1893313
+2011,Castor oil seed,123468
+2011,Dates,36800749
+2011,"Eggs, hen, in shell",44969476
+2011,Garlic,10435275
+2011,Ginger,1415
+2011,Grapes,3755268
+2011,"Groundnuts, with shell",5026862
+2011,Lemons and limes,2656752
+2011,Lentils,628497
+2011,Linseed,108098
+2011,Maize,87561594
+2011,"Mangoes, mangosteens, guavas",109116252
+2011,"Meat indigenous, goat",133765317
+2011,"Meat indigenous, sheep",26657596
+2011,"Meat, goat",133765317
+2011,"Meat, sheep",26657596
+2011,"Melons, other (inc.cantaloupes)",1648303
+2011,"Milk, whole fresh buffalo",698178621
+2011,"Milk, whole fresh cow",392537281
+2011,Millet,10457177
+2011,"Onions, dry",12860592
+2011,Oranges,35015085
+2011,Peaches and nectarines,2693199
+2011,Pears,482343
+2011,"Peas, dry",1405015
+2011,Plums and sloes,2983476
+2011,Potatoes,60963047
+2011,Pulses nes,8710066
+2011,Rapeseed,6895982
+2011,"Rice, paddy",196028333
+2011,Roots and tubers nes,14601513
+2011,Safflower seed,895
+2011,Seed cotton,164393512
+2011,Sesame seed,1862690
+2011,Sorghum,4442722
+2011,Soybeans,3718
+2011,Sugar beet,867
+2011,Sugar cane,59303433
+2011,Sunflower seed,18502445
+2011,"Walnuts, with shell",1822961
+2011,Wheat,524365840
+2011,"Wool, greasy",2439489
+2012,"Almonds, with shell",4568239
+2012,Apples,31451495
+2012,Apricots,6748839
+2012,Bananas,2160573
+2012,Barley,1745008
+2012,Castor oil seed,135389
+2012,Dates,34602841
+2012,"Eggs, hen, in shell",45919301
+2012,Garlic,10805012
+2012,Ginger,19964
+2012,Grapes,3752956
+2012,"Groundnuts, with shell",4645988
+2012,Lemons and limes,2878270
+2012,Lentils,523133
+2012,Linseed,97509
+2012,Maize,84935987
+2012,"Mangoes, mangosteens, guavas",98254156
+2012,"Meat indigenous, goat",136420989
+2012,"Meat indigenous, sheep",27131844
+2012,"Meat, goat",136420989
+2012,"Meat, sheep",27131844
+2012,"Melons, other (inc.cantaloupes)",1464094
+2012,"Milk, whole fresh buffalo",718532859
+2012,"Milk, whole fresh cow",406870902
+2012,Millet,10685718
+2012,"Onions, dry",22955952
+2012,Oranges,37887741
+2012,Peaches and nectarines,2751526
+2012,Pears,474653
+2012,"Peas, dry",905096
+2012,Plums and sloes,2952304
+2012,Potatoes,65749458
+2012,Pulses nes,10159994
+2012,Rapeseed,6322143
+2012,"Rice, paddy",288351191
+2012,Roots and tubers nes,14798612
+2012,Safflower seed,920
+2012,Seed cotton,401541758
+2012,Sesame seed,1798639
+2012,Sorghum,3974319
+2012,Soybeans,2671
+2012,Sugar beet,2814
+2012,Sugar cane,200009725
+2012,Sunflower seed,12929609
+2012,"Walnuts, with shell",1879829
+2012,Wheat,570990455
+2012,"Wool, greasy",2465289
+2013,"Almonds, with shell",5296948
+2013,Apples,38143786
+2013,Apricots,7477335
+2013,Bananas,2878919
+2013,Barley,1986808
+2013,Castor oil seed,141360
+2013,Dates,38680327
+2013,"Eggs, hen, in shell",53724035
+2013,Garlic,12716565
+2013,Ginger,24390
+2013,Grapes,4300948
+2013,"Groundnuts, with shell",6409867
+2013,Lemons and limes,3121740
+2013,Lentils,523264
+2013,Linseed,113536
+2013,Maize,109975163
+2013,"Mangoes, mangosteens, guavas",107220753
+2013,"Meat indigenous, goat",324264180
+2013,"Meat indigenous, sheep",38824753
+2013,"Meat, goat",158662649
+2013,"Meat, sheep",30581160
+2013,"Melons, other (inc.cantaloupes)",1593207
+2013,"Milk, whole fresh buffalo",1026479794
+2013,"Milk, whole fresh cow",587545535
+2013,Millet,11524332
+2013,"Onions, dry",21335190
+2013,Oranges,39319325
+2013,Peaches and nectarines,3352914
+2013,Pears,526660
+2013,"Peas, dry",842262
+2013,Plums and sloes,3259661
+2013,Potatoes,78918340
+2013,Pulses nes,11250652
+2013,Rapeseed,8672807
+2013,"Rice, paddy",504516630
+2013,Roots and tubers nes,16623606
+2013,Safflower seed,673
+2013,Seed cotton,392862673
+2013,Sesame seed,2224135
+2013,Sorghum,4288128
+2013,Soybeans,3020
+2013,Sugar beet,3133
+2013,Sugar cane,261407864
+2013,Sunflower seed,12382739
+2013,"Walnuts, with shell",1952378
+2013,Wheat,703340008
+2013,"Wool, greasy",2782907
+2014,"Almonds, with shell",5419921
+2014,Apples,40969971
+2014,Apricots,7575010
+2014,Bananas,3122668
+2014,Barley,2073789
+2014,Castor oil seed,93790
+2014,Dates,41633589
+2014,"Eggs, hen, in shell",59750406
+2014,Garlic,14276259
+2014,Ginger,26156
+2014,Grapes,4524979
+2014,"Groundnuts, with shell",5816906
+2014,Lemons and limes,3357337
+2014,Lentils,448766
+2014,Linseed,108127
+2014,Maize,122697166
+2014,"Mangoes, mangosteens, guavas",113308061
+2014,"Meat indigenous, goat",170207144
+2014,"Meat indigenous, sheep",32473446
+2014,"Meat, goat",170207144
+2014,"Meat, sheep",32473446
+2014,"Melons, other (inc.cantaloupes)",1141460
+2014,"Milk, whole fresh buffalo",1115546703
+2014,"Milk, whole fresh cow",643477551
+2014,Millet,11900462
+2014,"Onions, dry",33139556
+2014,Oranges,47386032
+2014,Peaches and nectarines,3882311
+2014,Pears,504962
+2014,"Peas, dry",868714
+2014,Plums and sloes,3381902
+2014,Potatoes,64671889
+2014,Pulses nes,6439712
+2014,Rapeseed,9147279
+2014,"Rice, paddy",598214190
+2014,Roots and tubers nes,17486669
+2014,Safflower seed,649
+2014,Seed cotton,511970068
+2014,Sesame seed,2399774
+2014,Sorghum,4362203
+2014,Soybeans,3089
+2014,Sugar beet,3306
+2014,Sugar cane,188479374
+2014,Sunflower seed,10370513
+2014,"Walnuts, with shell",2095420
+2014,Wheat,786526305
+2014,"Wool, greasy",2970770
+2015,"Almonds, with shell",5484583
+2015,Apples,41267453
+2015,Apricots,7692151
+2015,Bananas,3107674
+2015,Barley,1960453
+2015,Castor oil seed,67333
+2015,Dates,36294872
+2015,"Eggs, hen, in shell",63068902
+2015,Garlic,16180924
+2015,Ginger,27019
+2015,Grapes,4517927
+2015,"Groundnuts, with shell",6159363
+2015,Lemons and limes,3772687
+2015,Lentils,498202
+2015,Linseed,97962
+2015,Maize,137427435
+2015,"Mangoes, mangosteens, guavas",116073045
+2015,"Meat indigenous, goat",174823519
+2015,"Meat indigenous, sheep",32908941
+2015,"Meat, goat",174823519
+2015,"Meat, sheep",32908941
+2015,"Melons, other (inc.cantaloupes)",677946
+2015,"Milk, whole fresh buffalo",1150051414
+2015,"Milk, whole fresh cow",644250368
+2015,Millet,12123347
+2015,"Onions, dry",29354563
+2015,Oranges,49815091
+2015,Peaches and nectarines,4117310
+2015,Pears,492403
+2015,"Peas, dry",888692
+2015,Plums and sloes,3406540
+2015,Potatoes,94394083
+2015,Pulses nes,9954794
+2015,Rapeseed,8794677
+2015,"Rice, paddy",356809354
+2015,Roots and tubers nes,17475151
+2015,Safflower seed,680
+2015,Seed cotton,291817106
+2015,Sesame seed,2305019
+2015,Sorghum,6114206
+2015,Soybeans,1080
+2015,Sugar beet,43034
+2015,Sugar cane,270114628
+2015,Sunflower seed,9069634
+2015,"Walnuts, with shell",3082475
+2015,Wheat,740669287
+2015,"Wool, greasy",3008061
+2016,"Almonds, with shell",5755148
+2016,Apples,47690238
+2016,Apricots,7899434
+2016,Bananas,3793838
+2016,Barley,2024994
+2016,Castor oil seed,70162
+2016,Dates,36459617
+2016,"Eggs, hen, in shell",71210795
+2016,Garlic,16830217
+2016,Ginger,29588
+2016,Grapes,4860145
+2016,"Groundnuts, with shell",5117844
+2016,Lemons and limes,3476148
+2016,Lentils,467088
+2016,Linseed,107206
+2016,Maize,168192059
+2016,"Mangoes, mangosteens, guavas",121679083
+2016,"Meat indigenous, goat",192437966
+2016,"Meat indigenous, sheep",35649025
+2016,"Meat, goat",192437966
+2016,"Meat, sheep",35649025
+2016,"Melons, other (inc.cantaloupes)",71506
+2016,"Milk, whole fresh buffalo",1204199718
+2016,"Milk, whole fresh cow",705420807
+2016,Millet,13203683
+2016,"Onions, dry",39774717
+2016,Oranges,52368261
+2016,Peaches and nectarines,4462408
+2016,Pears,523330
+2016,"Peas, dry",920345
+2016,Plums and sloes,3060874
+2016,Potatoes,97649300
+2016,Pulses nes,10107977
+2016,Rapeseed,8913449
+2016,"Rice, paddy",207534154
+2016,Roots and tubers nes,15545895
+2016,Safflower seed,695
+2016,Seed cotton,366601340
+2016,Sesame seed,2642248
+2016,Sorghum,6052857
+2016,Soybeans,2102
+2016,Sugar beet,58327
+2016,Sugar cane,311364294
+2016,Sunflower seed,4952260
+2016,"Walnuts, with shell",3059116
+2016,Wheat,768990840
+2016,"Wool, greasy",3255824
+2017,"Almonds, with shell",6161481
+2017,Apples,42452270
+2017,Apricots,7125470
+2017,Bananas,4090180
+2017,Barley,2050551
+2017,Castor oil seed,74094
+2017,Dates,38644319
+2017,"Eggs, hen, in shell",79358518
+2017,Garlic,18794900
+2017,Ginger,31011
+2017,Grapes,5194658
+2017,"Groundnuts, with shell",6534899
+2017,Lemons and limes,3514714
+2017,Lentils,423191
+2017,Linseed,107834
+2017,Maize,179352248
+2017,"Mangoes, mangosteens, guavas",138774667
+2017,"Meat indigenous, goat",289869752
+2017,"Meat indigenous, sheep",52884350
+2017,"Meat, goat",289869752
+2017,"Meat, sheep",52884350
+2017,"Melons, other (inc.cantaloupes)",76939
+2017,"Milk, whole fresh buffalo",1309483543
+2017,"Milk, whole fresh cow",773021875
+2017,Millet,15512310
+2017,"Onions, dry",60082071
+2017,Oranges,53533813
+2017,Peaches and nectarines,4771447
+2017,Pears,534984
+2017,"Peas, dry",925872
+2017,Plums and sloes,3271847
+2017,Potatoes,105460176
+2017,Pulses nes,6056107
+2017,Rapeseed,9215549
+2017,"Rice, paddy",238379275
+2017,Roots and tubers nes,16439582
+2017,Safflower seed,455
+2017,Seed cotton,451458817
+2017,Sesame seed,2880996
+2017,Sorghum,6576779
+2017,Soybeans,1054
+2017,Sugar beet,76648
+2017,Sugar cane,363008249
+2017,Sunflower seed,6465409
+2017,"Walnuts, with shell",3353156
+2017,Wheat,1048150695
+2017,"Wool, greasy",3483993
+2018,"Almonds, with shell",5995759
+2018,Apples,43257621
+2018,Apricots,5746527
+2018,Bananas,4253764
+2018,Barley,2060858
+2018,Castor oil seed,69583
+2018,Dates,41495082
+2018,"Eggs, hen, in shell",88685461
+2018,Garlic,21528084
+2018,Ginger,4973
+2018,Grapes,5619942
+2018,"Groundnuts, with shell",7823654
+2018,Lemons and limes,3039497
+2018,Lentils,425158
+2018,Linseed,112383
+2018,Maize,201612799
+2018,"Mangoes, mangosteens, guavas",146145982
+2018,"Meat indigenous, goat",315381752
+2018,"Meat indigenous, sheep",56410823
+2018,"Meat, goat",315381752
+2018,"Meat, sheep",56685475
+2018,"Melons, other (inc.cantaloupes)",84599
+2018,"Milk, whole fresh buffalo",1416770106
+2018,"Milk, whole fresh cow",893733267
+2018,Millet,16947404
+2018,"Onions, dry",52420479
+2018,Oranges,56878701
+2018,Peaches and nectarines,6115998
+2018,Pears,556141
+2018,"Peas, dry",938079
+2018,Plums and sloes,3558328
+2018,Potatoes,135007209
+2018,Pulses nes,280919
+2018,Rapeseed,12964724
+2018,"Rice, paddy",162606492
+2018,Roots and tubers nes,17030234
+2018,Seed cotton,385598983
+2018,Sesame seed,3095791
+2018,Sorghum,6780072
+2018,Soybeans,1645
+2018,Sugar beet,89772
+2018,Sugar cane,309713673
+2018,Sunflower seed,9471000
+2018,"Walnuts, with shell",3695510
+2018,Wheat,1023231860
+2018,"Wool, greasy",3687050
+2019,"Almonds, with shell",4590711
+2019,Apples,34577267
+2019,Apricots,4386874
+2019,Bananas,4582997
+2019,Barley,2278048
+2019,Castor oil seed,48967
+2019,Dates,43230008
+2019,"Eggs, hen, in shell",83058860
+2019,Garlic,19983429
+2019,Ginger,1980
+2019,Grapes,5315081
+2019,"Groundnuts, with shell",8096982
+2019,Lemons and limes,3784670
+2019,Lentils,383708
+2019,Linseed,79979
+2019,Maize,295081349
+2019,"Mangoes, mangosteens, guavas",155219846
+2019,"Meat indigenous, goat",239304954
+2019,"Meat indigenous, sheep",45163700
+2019,"Meat, goat",239304954
+2019,"Meat, sheep",45170260
+2019,"Melons, other (inc.cantaloupes)",60998
+2019,"Milk, whole fresh buffalo",1231371835
+2019,"Milk, whole fresh cow",738244511
+2019,Millet,16465371
+2019,"Onions, dry",50769743
+2019,Oranges,44263881
+2019,Peaches and nectarines,5946853
+2019,Pears,411954
+2019,"Peas, dry",921846
+2019,Plums and sloes,3371797
+2019,Potatoes,145987809
+2019,Pulses nes,290605
+2019,Rapeseed,17185922
+2019,"Rice, paddy",166980991
+2019,Roots and tubers nes,13709965
+2019,Seed cotton,396111633
+2019,Sesame seed,6083072
+2019,Sorghum,5961840
+2019,Soybeans,953
+2019,Sugar beet,125133
+2019,Sugar cane,311936602
+2019,Sunflower seed,9361833
+2019,"Walnuts, with shell",2921953
+2019,Wheat,931445526
+2019,"Wool, greasy",3131076
+2020,"Almonds, with shell",4013608
+2020,Apples,30842002
+2020,Apricots,4357792
+2020,Bananas,5468981
+2020,Barley,2192597
+2020,Castor oil seed,95077
+2020,Dates,38966501
+2020,"Eggs, hen, in shell",85479186
+2020,Garlic,21435813
+2020,Ginger,637
+2020,Grapes,4993085
+2020,"Groundnuts, with shell",11101236
+2020,Lemons and limes,3650748
+2020,Lentils,299035
+2020,Linseed,68747
+2020,Maize,388733447
+2020,"Mangoes, mangosteens, guavas",173737462
+2020,"Meat indigenous, goat",215388148
+2020,"Meat indigenous, sheep",41832939
+2020,"Meat, goat",215388576
+2020,"Meat, sheep",41835168
+2020,"Melons, other (inc.cantaloupes)",58962
+2020,"Milk, whole fresh buffalo",1164926273
+2020,"Milk, whole fresh cow",703783563
+2020,Millet,11144647
+2020,"Onions, dry",54108372
+2020,Oranges,40206013
+2020,Peaches and nectarines,5250626
+2020,Pears,364372
+2020,"Peas, dry",700858
+2020,Plums and sloes,3303314
+2020,Potatoes,135782440
+2020,Pulses nes,1133526
+2020,Rapeseed,28147587
+2020,"Rice, paddy",189942644
+2020,Roots and tubers nes,11377573
+2020,Seed cotton,342041714
+2020,Sesame seed,11454780
+2020,Sorghum,8036213
+2020,Soybeans,10697
+2020,Sugar beet,59746
+2020,Sugar cane,432294507
+2020,Sunflower seed,11255887
+2020,"Walnuts, with shell",2660390
+2020,Wheat,950975625
+2020,"Wool, greasy",3050340
